@@ -11,3 +11,5 @@ cd (path/) --> to change the path of the present working directory
 q -->quit the currently working command
 touch (file name) --> linux to generate a blank file
 touch .gitignore --> put any file in .gitignore to stop ignore the file
+to ignore all files of same type --> *.(file extension) in gitignore
+you can also put folders in gitignore --> (folder_name)/
