@@ -15,3 +15,4 @@ to ignore all files of same type --> *.(file extension) in gitignore
 you can also put folders in gitignore --> (folder_name)/
 git diff --> compares working directory with staging area
 git diff --staged --> compares previous commit to current staging area
+git commit -a -m "(your text)" --> commits directly the modified files without staging them and it ignores the untracked files
