@@ -10,3 +10,4 @@ ls --> list the contents of the working directory
 cd (path/) --> to change the path of the present working directory
 q -->quit the currently working command
 touch (file name) --> linux to generate a blank file
+touch .gitignore --> put any file in .gitignore to stop ignore the file
