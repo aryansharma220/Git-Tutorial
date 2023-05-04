@@ -1,0 +1,12 @@
+git status --> to see the staus of the git repo
+git add --a(for staging all files)/(file name ) --> staging files in git repo
+git init --> Intialize git repo
+git commit -m "Messaghe to be shown" --> Commits to the git repo
+git log --> gives the log of all the changes made
+rm -rf .git(name of the git repo) --> deletes the git repo
+git clone (url) (name u want to give to the repo) --> to clone any git repo on ur pc
+pwd --> to check the present working directory
+ls --> list the contents of the working directory
+cd (path/) --> to change the path of the present working directory
+q -->quit the currently working command
+touch (file name) --> linux to generate a blank file
