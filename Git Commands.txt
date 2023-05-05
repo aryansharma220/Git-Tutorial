@@ -18,3 +18,4 @@ git diff --staged --> compares previous commit to current staging area
 git commit -a -m "(your text)" --> commits directly the modified files without staging them and it ignores the untracked files
 git rm (file name) --> to remove/delete the file and stages it
 git mv (file name) (renamed file name) --> to rename any file and stages it
+git rm --cached (file name) --> to stop the file from being tracked
